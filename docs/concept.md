@@ -119,3 +119,11 @@ Node.js 의 경우 두 방식을 적절히 선택하여 사용함으로써 성�
 - **Async & Non-Blocking**: 이벤트 루프, 네트워크 요청 등 비동기 작업
 
 이와 같은 구조 덕분에 단일 스레드에서도 높은 성능을 발휘할 수 있다.
+
+## References
+
+[my-growth-diary.log](https://velog.io/@maketheworldwise/SyncAsync-BlockingNon-Blocking-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C#sync--blocking--async--blocking)<br>
+[개발과 일상 사이](https://jh-7.tistory.com/25)<br>
+[느리더라도 꾸준하게](https://steady-coding.tistory.com/531)<br>
+[zxcev](https://velog.io/@mainfn/Blocking-Non-Blocking-Sync-Async-%EC%B0%A8%EC%9D%B4#sync-async)<br>
+[Inpa Dev](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC#sync_blocking_%EC%A1%B0%ED%95%A9)
